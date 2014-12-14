@@ -1,3 +1,5 @@
 nbproject
 vendor/bin
+vendor/doctrine
+vendor/symfony
 composer.lock
